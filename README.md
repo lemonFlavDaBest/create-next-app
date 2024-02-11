@@ -36,4 +36,4 @@ In your project directory, run `npm run dev`. You can now visit http://localhost
 - `pages/dashboard.tsx` for how to use the `usePrivy` hook, fields like `ready`, `authenticated`, and `user`, and methods like `linkWallet` and `logout`
 
 
-**Check out [our docs](https://docs.privy.io/) for more guidance around using Privy in your app!**
+**Check out [our docs](https://docs.privy.io/) for more guidance around using Privy in your app!
